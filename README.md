@@ -1,10 +1,11 @@
-# 💫 About Me:
-<h2 align="left">Hi 👋! My name is Gustavo and I'm a passionate front end dev, from Brazil</h2><br>
-###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/81aebfdd55a94e42f8841c26d5e161e8/35032c5c4018ae2a-79/s540x810/3f04224b02074027ab50bf80e4fe176d97a4cb19.gifv"  ](https://media0.giphy.com/media/SvQWqmFqNz9It8cb0O/200w.webp?cid=ecf05e47s1ce0pmpy0dgcgxec2l5u8mrdh7vnqtebaja3k7p&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
+<h1> Hi 👋! My name is Gustavo <br>  </h1>
+<h4 align="left"> I'm a passionate front end dev, from Brazil <img align="right" height="150" src="https://media0.giphy.com/media/SvQWqmFqNz9It8cb0O/200w.webp?cid=ecf05e47s1ce0pmpy0dgcgxec2l5u8mrdh7vnqtebaja3k7p&ep=v1_gifs_search&rid=200w.webp&ct=g"/></h4>
 
-###
+<br>
+
+
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-isidoro-0a8812175) 
